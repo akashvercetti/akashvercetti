@@ -4,7 +4,7 @@
 
 <h1 align="left">About Me</h1>
 
-<p align="justify">Hello. I'm Akash Malhotra. I am an iOS developer with a wealth of experience in and knowledge about developing mobile applications and SDKs. One of my areas of expertise lies in creating/maintaining open source SDKs that allow other developers to build upon and extend the functionality of their applications. Over the years, I have contributed to several prominent open source projects and have even released a library of my own on Cocoapods. In addition to my work with open source, I have a track record of successfully delivering high-quality iOS applications.</p>
+<p align="justify">Hello. I'm Akash Malhotra. I am an iOS developer with a wealth of experience in and knowledge about developing mobile applications and SDKs. One of my areas of expertise lies in creating/maintaining open source SDKs that allow other developers to build upon and extend the functionality of their applications. Over the years, I have contributed to several prominent open source projects and have even released a library of my own on Cocoapods. In addition to my work with open source SDKs, I have a track record of successfully delivering high-quality iOS applications. I have also worked in Android app development and API creation using Node JS/Express JS.</p>
 
 <h1 align="left">Skillset</h1>
 
@@ -60,6 +60,7 @@
 <h1 align="left">Personal Info</h1>
 
 <h3 align="left">Music</h3>
+<br/>
 
 <div align="left">
 <img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="70">
@@ -77,6 +78,7 @@
   </div>
 
 <h3 align="left">Gaming</h3>
+<br/>
 
 <div align="left">
 <img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="60">
