@@ -61,33 +61,32 @@
 <h3 align="left">Music</h3>
 
 <div align="left">
-<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="100">
+<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="70">
   <a href="https://open.spotify.com/user/22b2gipzwpcbpmdlv37vfwxgy" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22b2gipzwpcbpmdlv37vfwxgy" />
   </a>
-<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="100">
+<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="70">
   </div>
   
   <div align="left">
-<img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="100">
+<img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="70">
   <a href="https://open.spotify.com/user/22b2gipzwpcbpmdlv37vfwxgy" target="_blank">
-  <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22b2gipzwpcbpmdlv37vfwxgy&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color_cover=true">
-  <img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="100">
-  <a href="https://open.spotify.com/user/22b2gipzwpcbpmdlv37vfwxgy" 
+  <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22b2gipzwpcbpmdlv37vfwxgy&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color_cover=true"></a>
+  <img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="70">
   </div>
 
 <h3 align="left">Gaming</h3>
 
 <div align="left">
-<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="100">
+<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="60">
 <a href="https://www.exophase.com/user/akashvercetti/"><img src="https://card.exophase.com/2/0/2889.png?1687936570"></a>
-<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="100">
+<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="60">
 </div>
 
 <div align="left">
-<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="100">
+<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
 <a href="https://www.truetrophies.com/gamer/Niko_Akash"><img src="https://www.truetrophies.com/gamercards/Niko_Akash.png"/></a>
-<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="100">
+<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
 </div>
 
 
