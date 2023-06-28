@@ -35,7 +35,7 @@
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashvercetti&theme=jolly" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashvercetti&langs_count=6&theme=jolly" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashvercetti&langs_count=6&theme=jolly" width="60%"/>
 
 <h1 align="left">Github Trophies</h1>
 
