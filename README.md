@@ -4,7 +4,7 @@
 
 <h1 align="left">About Me</h1>
 
-<p align="justify">Hello. I'm Akash Malhotra. I am an iOS developer with a wealth of experience in and knowledge about developing mobile applications and SDKs. One of my areas of expertise lies in creating/maintaining open source SDKs that allow other developers to build upon and extend the functionality of their applications. Over the years, I have contributed to several prominent open source projects and have even released a library of my own on Cocoapods. In addition to my work with open source, I have a track record of successfully delivering high-quality iOS applications.</p>
+<p align="justify">Hello. I'm Akash Malhotra. I am an iOS developer with a wealth of experience in and knowledge about developing mobile applications and SDKs. One of my areas of expertise lies in creating/maintaining open source SDKs that allow other developers to build upon and extend the functionality of their applications. Over the years, I have contributed to several prominent open source projects and have even released a library of my own on Cocoapods. In addition to my work with open source SDKs, I have a track record of successfully delivering high-quality iOS applications. I have also worked in Android app development and API creation using Node JS/Express JS.</p>
 
 <h1 align="left">Skillset</h1>
 
@@ -35,7 +35,7 @@
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashvercetti&theme=jolly" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashvercetti&langs_count=6&theme=jolly" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashvercetti&langs_count=6&theme=jolly" width="60%"/>
 
 <h1 align="left">Github Trophies</h1>
 
@@ -51,7 +51,8 @@
  </a>
  <a href="https://www.linkedin.com/in/akash-malhotra-9b492671" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a href="https://steamcommunity.com/id/akashvercetti" target="_blank"> 
+ </a>
+ <a href="https://steamcommunity.com/id/akashvercetti" target="_blank"> 
  <img src="https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fakashvercetti%2F">
  </a> 
 </div>
@@ -59,35 +60,36 @@
 <h1 align="left">Personal Info</h1>
 
 <h3 align="left">Music</h3>
+<br/>
 
 <div align="left">
-<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="100">
+<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="70">
   <a href="https://open.spotify.com/user/22b2gipzwpcbpmdlv37vfwxgy" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22b2gipzwpcbpmdlv37vfwxgy" />
   </a>
-<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="100">
+<img src="https://media.tenor.com/rJpCgvQJgsEAAAAi/music.gif" width="70">
   </div>
   
   <div align="left">
-<img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="100">
+<img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="70">
   <a href="https://open.spotify.com/user/22b2gipzwpcbpmdlv37vfwxgy" target="_blank">
-  <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22b2gipzwpcbpmdlv37vfwxgy&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color_cover=true">
-  <img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="100">
-  <a href="https://open.spotify.com/user/22b2gipzwpcbpmdlv37vfwxgy" 
+  <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22b2gipzwpcbpmdlv37vfwxgy&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color_cover=true"></a>
+  <img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="70">
   </div>
 
 <h3 align="left">Gaming</h3>
+<br/>
 
 <div align="left">
-<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="100">
+<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="60">
 <a href="https://www.exophase.com/user/akashvercetti/"><img src="https://card.exophase.com/2/0/2889.png?1687936570"></a>
-<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="100">
+<img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="60">
 </div>
 
 <div align="left">
-<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="100">
+<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
 <a href="https://www.truetrophies.com/gamer/Niko_Akash"><img src="https://www.truetrophies.com/gamercards/Niko_Akash.png"/></a>
-<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="100">
+<img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
 </div>
 
 
