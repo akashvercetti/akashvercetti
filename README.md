@@ -39,7 +39,7 @@
 
 <h1 align="left">Github Trophies</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akashvercetti)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akashvercetti&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="left">Contact me</h1>
 <div align="left">
@@ -85,6 +85,8 @@
 <a href="https://www.exophase.com/user/akashvercetti/"><img src="https://card.exophase.com/2/0/2889.png?1687936570"></a>
 <img src="https://media.tenor.com/Angi6ha3AlYAAAAi/playing-video-games-kenny-mccormick.gif" width="60">
 </div>
+
+<br/>
 
 <div align="left">
 <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
