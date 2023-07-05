@@ -90,7 +90,7 @@
 
 <div align="left">
 <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
-<a href="https://www.truetrophies.com/gamer/Niko_Akash"><img src="https://www.truetrophies.com/gamercards/Niko_Akash.png"/></a>
+<a href="https://psnprofiles.com/Niko_Akash"><img src="https://card.psnprofiles.com/2/Niko_Akash.png" border="0"></a>
 <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
 </div>
 
