@@ -6,7 +6,35 @@
 
 <p align="justify">Hello. I'm Akash Malhotra. I am an iOS developer with a wealth of experience in and knowledge about developing mobile applications and SDKs. One of my areas of expertise lies in creating/maintaining open source SDKs that allow other developers to build upon and extend the functionality of their applications. Over the years, I have contributed to several prominent open source projects and have even released a library of my own on Cocoapods. In addition to my work with open source SDKs, I have a track record of successfully delivering high-quality iOS applications. I have also worked in Android app development and API creation using Node JS/Express JS.</p>
 
-<h1 align="left">Skillset</h1>
+## 🚀 My App
+
+🎮 **GameShortsXP**  
+📰 Gaming news in 100 words or less – stay informed in seconds!
+
+<table>
+  <tr>
+    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot1.e74c9b920df915218997.png" width="200"/></a></td>
+    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot2.0ed255a066b75a03d97c.png" width="200"/></a></td>
+    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot3.818089639ae1ae0f66ad.png" width="200"/></a></td>
+    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot4.675ec041ee1bb2c0c909.png" width="200"/></a></td>
+  </tr>
+</table>
+
+[![Play Store](https://img.shields.io/badge/Download_on_Play_Store-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
+[![Website](https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akashvercetti.github.io)
+[![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashvercetti/i-built-a-gaming-news-shorts-app-to-solve-my-own-annoyances-a8042237c01f)
+
+---
+
+### 📰 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashvercetti&theme=dracula)](https://akashvercetti.github.io)
+
+
+<h1 align="left">🎯 Skillset</h1>
 
 ### Programming Languages
 
@@ -17,7 +45,7 @@
 ![Static Badge](https://img.shields.io/badge/UIKit-magenta?style=for-the-badge&logo=ios) ![Static Badge](https://img.shields.io/badge/Foundation-cyan?style=for-the-badge&logo=ios&logoColor=black) ![Static Badge](https://img.shields.io/badge/UserNotifications-darkgreen?style=for-the-badge&logo=ios) ![Static Badge](https://img.shields.io/badge/Cocoa%20Touch-darkblue?style=for-the-badge&logo=ios) ![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Static Badge](https://img.shields.io/badge/React%20Native-darkblue?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/Flutter-purple?style=for-the-badge&logo=flutter)
 
 
-### Tools
+### 🧰 Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white) ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white) ![Static Badge](https://img.shields.io/badge/Xcode-lightblue?style=for-the-badge&logo=xcode)      ![Static Badge](https://img.shields.io/badge/unity-brown?style=for-the-badge&logo=unity)
 
@@ -77,7 +105,7 @@
   <img src="https://media.tenor.com/EKQC1tpmq6oAAAAi/canticos-music-note.gif" width="70">
   </div>
 
-<h3 align="left">Gaming</h3>
+<h3 align="left">🎮 Gaming Stats</h3>
 <br/>
 
 <div align="left">
