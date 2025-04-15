@@ -11,14 +11,10 @@
 🎮 **GameShortsXP**  
 📰 Gaming news in 100 words or less – stay informed in seconds!
 
-<table>
-  <tr>
-    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot1.e74c9b920df915218997.png" width="200"/></a></td>
-    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot2.0ed255a066b75a03d97c.png" width="200"/></a></td>
-    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot3.818089639ae1ae0f66ad.png" width="200"/></a></td>
-    <td><a href="https://play.google.com/store/apps/details?id=your.package.name"><img src="https://akashvercetti.github.io/static/media/screenshot4.675ec041ee1bb2c0c909.png" width="200"/></a></td>
-  </tr>
-</table>
+| [![Screenshot 1](https://akashvercetti.github.io/static/media/screenshot1.e74c9b920df915218997.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) | [![Screenshot 2](https://akashvercetti.github.io/static/media/screenshot2.0ed255a066b75a03d97c.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
+|---|---|
+| [![Screenshot 3](https://akashvercetti.github.io/static/media/screenshot3.818089639ae1ae0f66ad.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) | [![Screenshot 4](https://akashvercetti.github.io/static/media/screenshot4.675ec041ee1bb2c0c909.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
+
 
 [![Play Store](https://img.shields.io/badge/Download_on_Play_Store-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
 [![Website](https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akashvercetti.github.io)
