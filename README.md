@@ -8,12 +8,16 @@
 
 ## 🚀 My App
 
-🎮 **GameShortsXP**  
-📰 Gaming news in 100 words or less – stay informed in seconds!
+**GameShortsXP**  
+- Gaming news in 100 words or less – stay informed in seconds!
+- Browse latest video game trailers!
+- Search for or browse Xbox Game Pass games!
+- Customize your news feed based on your preferred topics!
 
-| [![Screenshot 1](https://akashvercetti.github.io/static/media/screenshot1.e74c9b920df915218997.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) | [![Screenshot 2](https://akashvercetti.github.io/static/media/screenshot2.0ed255a066b75a03d97c.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
+
+| [![Screenshot 1](https://akashvercetti.github.io/static/media/screenshot1.c1c70c107e35300ce5b2.png) | [![Screenshot 2](https://akashvercetti.github.io/static/media/screenshot2.89ff4f95e7ab645cf639.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
 |---|---|
-| [![Screenshot 3](https://akashvercetti.github.io/static/media/screenshot3.818089639ae1ae0f66ad.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) | [![Screenshot 4](https://akashvercetti.github.io/static/media/screenshot4.675ec041ee1bb2c0c909.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
+| [![Screenshot 3](https://akashvercetti.github.io/static/media/screenshot3.7b79e8ec422cba5337e0.png) | [![Screenshot 4](https://akashvercetti.github.io/static/media/screenshot4.6cb5ffe9739219ae3cdd.png) |
 
 
 [![Play Store](https://img.shields.io/badge/Download_on_Play_Store-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
