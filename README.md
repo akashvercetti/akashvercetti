@@ -26,6 +26,21 @@
 
 ---
 
+## 🎮 YouTube Channel: InvertedControlFreak
+
+<p align="justify">A gamer dad sharing honest takes on games. Indie gems, sale picks, news reactions, reviews and sessions with friends. Real experiences, no corporate filter.</p>
+
+**What's on the channel:**
+- 🛒 **Sale Picks** : Recommendations on what is actually worth grabbing during sales
+- 🎮 **Game Reviews** : Honest and personal takes from someone who plays for the love of it
+- 😤 **News Reactions** :  Reactions to gaming news and announcements
+- 💜 **Indie Love** : Shining a light on indie games
+- 🎙️ **Gaming Sessions** : Casual chats with friends about what we're playing
+- 📖 **My Gaming Life** : Commentary on personal gaming experiences and memories
+
+[![YouTube](https://img.shields.io/badge/InvertedControlFreak-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InvertedControlFreak)
+
+---
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashvercetti&theme=dracula)](https://akashvercetti.github.io)
 
@@ -78,7 +93,10 @@
  </a>
  <a href="https://steamcommunity.com/id/akashvercetti" target="_blank"> 
  <img src="https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fakashvercetti%2F">
- </a> 
+ </a>
+ <a href="https://www.youtube.com/@InvertedControlFreak" target="_blank">
+  <img src="https://img.shields.io/badge/InvertedControlFreak-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+ </a>
 </div>
 
 <h1 align="left">Personal Info</h1>
@@ -117,5 +135,3 @@
 <a href="https://psnprofiles.com/Niko_Akash"><img src="https://card.psnprofiles.com/2/Niko_Akash.png" border="0"></a>
 <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" width="70">
 </div>
-
-
