@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="./assets/vercetti.gif" width="100%" alt="Banner">
+<p align="left">
+  <img src="./assets/vercetti.gif" width="50%" alt="Banner">
 </p>
 
 <h1 align="left">Hey, I'm Akash</h1>
