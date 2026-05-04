@@ -92,7 +92,7 @@ Free game alerts, price drop deals, esports scores, gaming news, and Steam achie
 
 <h1 align="left">Github Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashvercetti&show_icons=true&theme=jolly&hide=issues&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=akashvercetti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&all_time_contribs=true" width="100%"/>
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashvercetti&theme=jolly" />
 
