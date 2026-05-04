@@ -8,16 +8,34 @@
 
 ## 🚀 My App
 
-**GameShortsXP**  
-- Gaming news in 100 words or less – stay informed in seconds!
-- Browse latest video game trailers!
-- Search for or browse Xbox Game Pass games!
-- Customize your news feed based on your preferred topics!
+**Pulstral** - Your gaming hub for Android
+
+Free game alerts, price drop deals, esports scores, gaming news, and Steam achievement tracking. Everything a gamer needs, in one app.
+
+**Steam integration** - Play Next recommendations, Achievement Hunter, Achievement Timeline, Trophy Case, Library Stats, and shareable Wrapped cards
+
+**Pulstral Score** - Your achievement skill rating calculated from rarity. Climb 15 rank tiers from Wanderer to Transcendent
+
+**Deals & price tracking** - Browse deals across Steam, Epic, GOG, Humble, and more. Set price alerts and track historical price charts
+
+**Free games** - Instant notifications when games go free on Epic, Steam, Prime Gaming, GOG, and more
+
+**Gaming news** - Fast-moving feed from IGN, Eurogamer, Rock Paper Shotgun, and more
+
+**Esports** - Live scores, fixtures, and streams for CS2, Dota 2, LoL, Valorant, BGMI, and more
+
+**Backlog manager** - Track games as To Play, In Progress, Completed, or Dropped
+
+**Hoyo Showcase** - Genshin Impact, Honkai: Star Rail, and ZZZ profile cards
+
+**Trailers, releases calendar, free-to-play codes, and home screen widgets**
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
 
 
-| [![Screenshot 1](https://akashvercetti.github.io/static/media/screenshot1.c1c70c107e35300ce5b2.png) | [![Screenshot 2](https://akashvercetti.github.io/static/media/screenshot2.89ff4f95e7ab645cf639.png)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
+| [![Screenshot 1](https://akashvercetti.github.io/static/media/screenshot1.6975515a5ecd02880a7b.jpg) | [![Screenshot 2](https://akashvercetti.github.io/static/media/screenshot2.2dca98a4496134e1afda.jpg)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
 |---|---|
-| [![Screenshot 3](https://akashvercetti.github.io/static/media/screenshot3.7b79e8ec422cba5337e0.png) | [![Screenshot 4](https://akashvercetti.github.io/static/media/screenshot4.6cb5ffe9739219ae3cdd.png) |
+| [![Screenshot 3](https://akashvercetti.github.io/static/media/screenshot3.0b4a544698b359ed22ca.jpg) | [![Screenshot 4](https://akashvercetti.github.io/static/media/screenshot4.43e8db12cd16ad28a5c2.jpg) |
 
 
 [![Play Store](https://img.shields.io/badge/Download_on_Play_Store-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
