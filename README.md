@@ -32,11 +32,9 @@ Free game alerts, price drop deals, esports scores, gaming news, and Steam achie
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
 
-
-| [![Screenshot 1](https://akashvercetti.github.io/static/media/screenshot1.6975515a5ecd02880a7b.jpg) | [![Screenshot 2](https://akashvercetti.github.io/static/media/screenshot2.2dca98a4496134e1afda.jpg)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp) |
-|---|---|
-| [![Screenshot 3](https://akashvercetti.github.io/static/media/screenshot3.0b4a544698b359ed22ca.jpg) | [![Screenshot 4](https://akashvercetti.github.io/static/media/screenshot4.43e8db12cd16ad28a5c2.jpg) |
-
+| ![Screenshot 1](https://akashvercetti.github.io/static/media/screenshot1.6975515a5ecd02880a7b.jpg) | ![Screenshot 2](https://akashvercetti.github.io/static/media/screenshot2.2dca98a4496134e1afda.jpg) | ![Screenshot 3](https://akashvercetti.github.io/static/media/screenshot3.0b4a544698b359ed22ca.jpg) | ![Screenshot 4](https://akashvercetti.github.io/static/media/screenshot4.43e8db12cd16ad28a5c2.jpg) |
+|---|---|---|---|
+| ![Screenshot 5](https://akashvercetti.github.io/static/media/screenshot5.9db009406e1513371df9.jpg) | ![Screenshot 6](https://akashvercetti.github.io/static/media/screenshot6.25742d6b4e1edc33f635.jpg) | ![Screenshot 7](https://akashvercetti.github.io/static/media/screenshot7.4d685183c3cdef6f391f.jpg) | ![Screenshot 8](https://akashvercetti.github.io/static/media/screenshot8.dacbd0daa58088d26ea6.jpg) |
 
 [![Play Store](https://img.shields.io/badge/Download_on_Play_Store-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
 [![Website](https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akashvercetti.github.io)
