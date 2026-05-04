@@ -2,11 +2,17 @@
   <img src="./assets/vercetti.gif" width="100%" alt="Banner">
 </p>
 
-<h1 align="left">About Me</h1>
+<h1 align="left">Hey, I'm Akash</h1>
 
-<p align="justify">Hello. I'm Akash Malhotra. I am an iOS developer with a wealth of experience in and knowledge about developing mobile applications and SDKs. One of my areas of expertise lies in creating/maintaining open source SDKs that allow other developers to build upon and extend the functionality of their applications. Over the years, I have contributed to several prominent open source projects and have even released a library of my own on Cocoapods. In addition to my work with open source SDKs, I have a track record of successfully delivering high-quality iOS applications. I have also worked in Android app development and API creation using Node JS/Express JS.</p>
+<p align="justify">
+iOS developer with years of experience building mobile applications and SDKs. I specialize in open source SDK development, designing libraries that other developers can build on, contributing to existing projects, and shipping my own work on CocoaPods.
 
-## 🚀 My App
+Beyond iOS, I am comfortable across the stack. I have shipped Android apps, built REST APIs with Node.js/Express, and most recently built <a href="https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp">Pulstral</a>, a full-featured gaming companion app for Android as a solo side project.
+
+I care about clean APIs, good developer experience, and building things that are actually useful.
+</p>
+
+## My App
 
 **Pulstral** - Your gaming hub for Android
 
@@ -42,7 +48,7 @@ Free game alerts, price drop deals, esports scores, gaming news, and Steam achie
 
 ---
 
-## 🎮 YouTube Channel: InvertedControlFreak
+## YouTube Channel: InvertedControlFreak
 
 <p align="justify">A gamer dad sharing honest takes on games. Indie gems, sale picks, news reactions, reviews and sessions with friends. Real experiences, no corporate filter.</p>
 
