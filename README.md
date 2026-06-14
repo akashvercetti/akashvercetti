@@ -112,8 +112,7 @@ I design **funny t-shirts** . Gaming and gamer tees, office and corporate humour
 
 <h1 align="left">Github Trophies</h1>
 
-[![Akash Malhotra GitHub trophies](https://github-profile-trophy.vercel.app/?username=akashvercetti&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Akash Malhotra GitHub trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=akashvercetti&column=4&margin-w=15&margin-h=15)]
 <h1 align="left">Contact me</h1>
 <div align="left">
  <a href="mailto:carljohnson.akash@gmail.com" target="_blank">
