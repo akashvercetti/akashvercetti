@@ -7,9 +7,11 @@
 <p align="left"><strong>iOS Developer · Mobile SDK Engineer · Indie Android App & Gaming Tool Builder</strong></p>
 
 <p align="justify">
-I'm Akash Malhotra, an iOS developer with years of experience building mobile applications and SDKs. I specialize in open source iOS SDK development - designing libraries that other developers build on, contributing to existing projects, and shipping my own work on CocoaPods.
+I'm Akash Malhotra, a Senior iOS Engineer and Engineering Manager with 15+ years building mobile apps and SDKs. I currently lead the iOS SDK platform at <a href="https://github.com/CleverTap/clevertap-ios-sdk">CleverTap</a>, where I own the architecture of a production iOS SDK that runs across 1000+ apps and millions of devices - and I still write Swift and Objective-C every day. I specialize in open source iOS SDK and framework development: clean libraries other developers build on, distributed via CocoaPods, Swift Package Manager, and XCFrameworks.
 
-Beyond iOS, I am comfortable across the stack. I have shipped Android apps, built REST APIs with Node.js/Express, and most recently built <a href="https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp">Pulstral</a>, a full-featured gaming companion app for Android, as a solo side project.
+Beyond iOS, I'm comfortable across the stack. I've shipped Android apps, built REST APIs with Node.js/Express, and most recently built <a href="https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp">Pulstral</a>, a full-featured gaming companion app for Android, as a solo side project.
+
+Outside of engineering, I run <a href="https://www.youtube.com/@InvertedControlFreak">InvertedControlFreak</a>, a gaming YouTube channel with honest reviews, indie gems, and conversation with friends, and I design <a href="https://akashvercetti.github.io/tees">original funny t-shirts</a> - gaming, office humour, and coder/developer tropes.
 
 I care about clean APIs, good developer experience, and building things that are actually useful.
 </p>
