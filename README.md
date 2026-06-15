@@ -11,7 +11,7 @@ I'm Akash Malhotra, a Senior iOS Engineer and Engineering Manager with 15+ years
 
 Beyond iOS, I'm comfortable across the stack. I've shipped Android apps, built REST APIs with Node.js/Express, and most recently built <a href="https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp">Pulstral</a>, a full-featured gaming companion app for Android, as a solo side project.
 
-Outside of engineering, I run <a href="https://www.youtube.com/@InvertedControlFreak">InvertedControlFreak</a>, a gaming YouTube channel with honest reviews, indie gems, and conversation with friends, and I design <a href="https://akashvercetti.github.io/tees">original funny t-shirts</a> - gaming, office humour, and coder/developer tropes.
+Outside of engineering, I run <a href="https://www.youtube.com/@InvertedControlFreak">InvertedControlFreak</a>, a gaming YouTube channel with honest reviews, indie gems, and conversation with friends, and I design <a href="https://www.franklywearing.com/creator/akashmalhotra">original funny t-shirts</a> - gaming, office humour, and coder/developer tropes.
 
 I care about clean APIs, good developer experience, and building things that are actually useful.
 </p>
@@ -56,7 +56,7 @@ Free game alerts, price drop deals, esports scores, gaming news, and Steam achie
 
 I design **funny t-shirts** . Gaming and gamer tees, office and corporate humour, coder and software-developer memes, and retro gaming nostalgia. Browse the full collection on my site, where each design links out to buy:
 
-[![Browse T-Shirt Designs](https://img.shields.io/badge/Browse_T--Shirt_Designs-FF0080?style=for-the-badge)](https://akashvercetti.github.io/tees)
+[![Browse T-Shirt Designs](https://img.shields.io/badge/Browse_T--Shirt_Designs-FF0080?style=for-the-badge)](https://www.franklywearing.com/creator/akashmalhotra)
 
 ---
 
