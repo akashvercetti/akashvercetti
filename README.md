@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=50&duration=2800&pause=700&color=FF1B8D&center=true&vCenter=true&width=1000&height=100&lines=Akash+Malhotra;Senior+iOS+Engineer+%26+Engg+Manager;Indie+App+%26+SDK+Builder;Gaming+YouTuber+%26+Tee+Designer" alt="Akash Malhotra - Senior iOS Engineer and Engineering Manager" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=700&color=FF1B8D&center=true&vCenter=true&width=820&height=80&lines=Akash+Malhotra;Senior+iOS+Engineer+%26+Engg+Manager;Indie+App+%26+SDK+Builder;Gaming+YouTuber+%26+Tee+Designer" alt="Akash Malhotra - Senior iOS Engineer and Engineering Manager" />
 </p>
 
 <h1 align="left">Hey, I'm Akash Malhotra</h1>
