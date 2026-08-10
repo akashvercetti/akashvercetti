@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=700&color=FF1B8D&center=true&vCenter=true&width=820&height=80&lines=Akash+Malhotra;Senior+iOS+Engineer+%26+Engg+Manager;Indie+App+%26+SDK+Builder;Gaming+YouTuber+%26+Tee+Designer" alt="Akash Malhotra - Senior iOS Engineer and Engineering Manager" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=700&color=FF1B8D&center=true&vCenter=true&width=820&height=80&lines=Akash+Malhotra;Senior+iOS+Engineer+%26+Engg+Manager;Indie+App+%26+SDK+Builder;Gaming+YouTuber+%26+Tee+Designer;akashvercetti" alt="Akash Malhotra - Senior iOS Engineer and Engineering Manager" />
 </p>
 
 <h1 align="left">Hey, I'm Akash Malhotra</h1>
@@ -11,7 +11,7 @@ I'm Akash Malhotra, a Senior iOS Engineer and Engineering Manager with 15+ years
 
 Beyond iOS, I'm comfortable across the stack. I've shipped Android apps, built REST APIs with Node.js/Express, and most recently built <a href="https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp">Pulstral</a>, a full-featured gaming companion app for Android, as a solo side project.
 
-Outside of engineering, I run <a href="https://www.youtube.com/@InvertedControlFreak">InvertedControlFreak</a>, a gaming YouTube channel with honest reviews, indie gems, and conversation with friends, and I design <a href="https://www.franklywearing.com/creator/akashmalhotra">original funny t-shirts</a> - gaming, office humour, and coder/developer tropes.
+Outside of engineering, I run <a href="https://www.youtube.com/@InvertedControlFreak">InvertedControlFreak</a>, a gaming YouTube channel with honest reviews, indie gems, and conversation with friends, and as <strong>akashvercetti</strong> I design <a href="https://www.franklywearing.com/creator/akashmalhotra">gaming and office themed funny t-shirts</a> and coder/developer tropes.
 
 I care about clean APIs, good developer experience, and building things that are actually useful.
 </p>
@@ -54,9 +54,11 @@ Free game alerts, price drop deals, esports scores, gaming news, and Steam achie
 
 ## My T-Shirt Designs
 
-I design **funny t-shirts** . Gaming and gamer tees, office and corporate humour, coder and software-developer memes, and retro gaming nostalgia. Browse the full collection on my site, where each design links out to buy:
+I design **funny t-shirts**. Gaming and gamer tees, office and corporate humor, coder and software developer memes, and retro gaming nostalgia. Browse the full collection on my site:
 
 [![Browse T-Shirt Designs](https://img.shields.io/badge/Browse_T--Shirt_Designs-FF0080?style=for-the-badge)](https://www.franklywearing.com/creator/akashmalhotra)
+
+→ [akashvercetti tees on Frankly Wearing](https://www.franklywearing.com/creator/akashmalhotra)
 
 ---
 
