@@ -7,7 +7,7 @@
 <p align="left"><strong>iOS Developer · Mobile SDK Engineer · Indie Android App & Gaming Tool Builder</strong></p>
 
 <p align="justify">
-I'm Akash Malhotra, a Senior iOS Engineer and Engineering Manager with 15+ years building mobile apps and SDKs. I currently lead the iOS SDK platform at <a href="https://github.com/CleverTap/clevertap-ios-sdk">CleverTap</a>, where I own the architecture of a production iOS SDK that runs across 1000+ apps and millions of devices - and I still write Swift and Objective-C every day. I specialize in open source iOS SDK and framework development: clean libraries other developers build on, distributed via CocoaPods, Swift Package Manager, and XCFrameworks.
+I'm Akash Malhotra, a Senior iOS Engineer and Engineering Manager with 15+ years building mobile apps and SDKs. I currently lead the iOS SDK platform at <a href="https://github.com/CleverTap/clevertap-ios-sdk">CleverTap</a>, where I own the architecture of a production iOS SDK that runs across 1000+ apps and millions of devices - and I still write Swift and Objective-C every day. I specialize in open source iOS SDK and framework development: clean libraries other developers build on, distributed via CocoaPods, Swift Package Manager, and XCFrameworks. My full engineering background is on <a href="https://akashvercetti.github.io/portfolio/">my portfolio site</a>.
 
 Beyond iOS, I'm comfortable across the stack. I've shipped Android apps, built REST APIs with Node.js/Express, and most recently built <a href="https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp">Pulstral</a>, a full-featured gaming companion app for Android, as a solo side project.
 
@@ -15,6 +15,9 @@ Outside of engineering, I run <a href="https://www.youtube.com/@InvertedControlF
 
 I care about clean APIs, good developer experience, and building things that are actually useful.
 </p>
+
+> **Akash Malhotra** · **akashvercetti** · **InvertedControlFreak** - all the same person.
+> Portfolio: [akashvercetti.github.io/portfolio](https://akashvercetti.github.io/portfolio/)
 
 ## My App
 
@@ -42,12 +45,12 @@ Free game alerts, price drop deals, esports scores, gaming news, and Steam achie
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
 
-| ![Pulstral gaming app screenshot - game deals and price drop tracking](https://akashvercetti.github.io/static/media/screenshot1.6975515a5ecd02880a7b.jpg) | ![Pulstral screenshot - free game alerts from Epic, Steam and Prime Gaming](https://akashvercetti.github.io/static/media/screenshot2.2dca98a4496134e1afda.jpg) | ![Pulstral screenshot - Steam achievement tracking and Trophy Case](https://akashvercetti.github.io/static/media/screenshot3.0b4a544698b359ed22ca.jpg) | ![Pulstral screenshot - esports live scores and fixtures](https://akashvercetti.github.io/static/media/screenshot4.43e8db12cd16ad28a5c2.jpg) |
+| ![Pulstral gaming app screenshot - game deals and price drop tracking](https://akashvercetti.github.io/static/media/screenshot1.f84343b216898584d326.webp) | ![Pulstral screenshot - free game alerts from Epic, Steam and Prime Gaming](https://akashvercetti.github.io/static/media/screenshot2.1cfba470cec41c9622d0.webp) | ![Pulstral screenshot - Steam achievement tracking and Trophy Case](https://akashvercetti.github.io/static/media/screenshot3.f9f6e09d87efc9de1c2d.webp) | ![Pulstral screenshot - esports live scores and fixtures](https://akashvercetti.github.io/static/media/screenshot4.39728c2bc655e3a5bda0.webp) |
 |---|---|---|---|
-| ![Pulstral screenshot - gaming news feed](https://akashvercetti.github.io/static/media/screenshot5.9db009406e1513371df9.jpg) | ![Pulstral screenshot - game backlog manager](https://akashvercetti.github.io/static/media/screenshot6.25742d6b4e1edc33f635.jpg) | ![Pulstral screenshot - Pulstral Score achievement rank tiers](https://akashvercetti.github.io/static/media/screenshot7.4d685183c3cdef6f391f.jpg) | ![Pulstral screenshot - home screen widgets and releases calendar](https://akashvercetti.github.io/static/media/screenshot8.dacbd0daa58088d26ea6.jpg) |
+| ![Pulstral screenshot - gaming news feed](https://akashvercetti.github.io/static/media/screenshot5.1a87c8804b30ccedbe9c.webp) | ![Pulstral screenshot - game backlog manager](https://akashvercetti.github.io/static/media/screenshot6.8f9cc3e882f97729609f.webp) | ![Pulstral screenshot - Pulstral Score achievement rank tiers](https://akashvercetti.github.io/static/media/screenshot7.f092c0bd64632fd4b680.webp) | ![Pulstral screenshot - home screen widgets and releases calendar](https://akashvercetti.github.io/static/media/screenshot8.b70d24fa1a561c41e3f1.webp) |
 
 [![Play Store](https://img.shields.io/badge/Download_on_Play_Store-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.akashvercetti.gameshortsxp)
-[![Website](https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akashvercetti.github.io)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akashvercetti.github.io/portfolio/)
 [![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashvercetti/i-built-a-gaming-news-shorts-app-to-solve-my-own-annoyances-a8042237c01f)
 
 ---
@@ -59,6 +62,7 @@ I design **funny t-shirts**. Gaming and gamer tees, office and corporate humor, 
 [![Browse T-Shirt Designs](https://img.shields.io/badge/Browse_T--Shirt_Designs-FF0080?style=for-the-badge)](https://www.franklywearing.com/creator/akashmalhotra)
 
 → [akashvercetti tees on Frankly Wearing](https://www.franklywearing.com/creator/akashmalhotra)
+→ [All designs on my site](https://akashvercetti.github.io/tees/)
 
 ---
 
@@ -78,7 +82,7 @@ I design **funny t-shirts**. Gaming and gamer tees, office and corporate humor, 
 
 ---
 
-[![Akash Malhotra GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashvercetti&theme=dracula)](https://akashvercetti.github.io)
+[![Akash Malhotra GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashvercetti&theme=dracula)](https://akashvercetti.github.io/portfolio/)
 
 
 <h1 align="left">🎯 Skillset</h1>
@@ -114,7 +118,8 @@ I design **funny t-shirts**. Gaming and gamer tees, office and corporate humor, 
 
 <h1 align="left">Github Trophies</h1>
 
-[![Akash Malhotra GitHub trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=akashvercetti&column=4&margin-w=15&margin-h=15)]
+[![Akash Malhotra GitHub trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=akashvercetti&column=4&margin-w=15&margin-h=15)](https://github.com/akashvercetti)
+
 <h1 align="left">Contact me</h1>
 <div align="left">
  <a href="mailto:carljohnson.akash@gmail.com" target="_blank">
@@ -131,6 +136,9 @@ I design **funny t-shirts**. Gaming and gamer tees, office and corporate humor, 
  </a>
  <a href="https://www.youtube.com/@InvertedControlFreak" target="_blank">
   <img src="https://img.shields.io/badge/InvertedControlFreak-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="InvertedControlFreak YouTube channel">
+ </a>
+ <a href="https://akashvercetti.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Akash Malhotra portfolio">
  </a>
 </div>
 
